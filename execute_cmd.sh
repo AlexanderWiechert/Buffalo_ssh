@@ -5,8 +5,8 @@
 
 
 
-IPADDR=192.168.1.1
+IPADDR=10.16.0.60
 
-ADMIN_PASSWORD=CgK95-HTL
+ADMIN_PASSWORD=cXpC8h4
 
-java -jar acp_commander.jar  -q -t ${IPADDR} -ip ${IPADDR} -pw ${ADMIN_PASSWORD} -c "$*"
+java -jar acp_commander.jar  -q -t ${IPADDR} -ip ${IPADDR} -pw ${ADMIN_PASSWORD} -c $1
