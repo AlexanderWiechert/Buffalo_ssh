@@ -91,3 +91,11 @@ mount  -t nfs -o vers=2 192.168.1.28:/mnt/array1/share /home/alex/share
 
 mkdir /home/alex/backups
 mount  -t nfs -o vers=2 192.168.1.28:/mnt/array1/backups /home/alex/backups
+
+# Alexander Wiechert // Elastic2ls
+
+[Website](https://www.elastic2ls.com/)
+
+[Contact](info@elastic2ls.com)
+
+[License](https://github.com/AlexanderWiechert/.github/blob/main/LICENSE)
